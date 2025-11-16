@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "https://t3.ftcdn.net/jpg/04/29/35/62/360_F_429356296_CVQ5LkC6Pl55kUNLqLisVKgTw9vjyif1.jpg",
     "https://images.unsplash.com/photo-1558611848-73f7eb4001a1?auto=format&fit=crop&w=1920&q=80",
     "https://images.unsplash.com/photo-1501426026826-31c667bdf23d?auto=format&fit=crop&w=1920&q=80",
-    "https://www.wallsnapy.com/img_gallery/mighty-hanuman-ai-wallpaper-with-gada-full-screen-159254.jpg"
+    "https://i.pinimg.com/736x/0c/66/bd/0c66bd9d2ae0dcd6eef6395192d55799.jpg"
   ];
 
   let i = 0;
@@ -464,5 +464,6 @@ document.addEventListener("DOMContentLoaded", () => {
     showResult(query);
   });
 });
+
 
 
